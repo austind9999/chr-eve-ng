@@ -11,7 +11,7 @@ You must have already intalled eve-ng without differences virtual or bare metal.
 Installing script is simple by using next command
 
 ```
-wget https://github.com/hreskiv/chr-eve-ng/raw/master/chr-eve.sh
+wget https://github.com/austind9999/chr-eve-ng/raw/master/chr-eve.sh
 ```
 ## Using example
 Use the script with version of RouterOS as parameter
@@ -25,9 +25,6 @@ sh chr-eve.sh 6.46.5
 You can copy and/or modify script without limitations 
 
 ```
-wget https://github.com/hreskiv/chr-eve-ng/raw/master/chr-eve.sh
+wget https://github.com/austind9999/chr-eve-ng/raw/master/chr-eve.sh
 ```
 
-## Author
-
-* **Ihor Hreskiv** - *Initial work* - [write e-mail](mailto:ihor@mwtc.pl)
